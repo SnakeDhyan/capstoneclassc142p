@@ -11,41 +11,44 @@ function sh(){
     window.location="sh.html";
 }
 function rad(){
-    window.location="rad.html"
+    window.location="rad.html";
 }
 function just(){
-    window.location="just.html"
+    window.location="just.html";
 }
 function gho(){
-    window.location="gho.html"
+    window.location="gho.html";
 }
 function ba(){
-    window.location="ba.html"
+    window.location="ba.html";
 }
 function sta(){
-    window.location="sta.html"
+    window.location="sta.html";
 }
 function sg(){
-    window.location="sg.html"
+    window.location="sg.html";
 }
 function cb(){
-    window.location="cb.html"
+    window.location="cb.html";
 }
 function edsh(){
-    window.location="edsh.html"
+    window.location="edsh.html";
 }
 function toh(){
-    window.location="toh.html"
+    window.location="toh.html";
 }
 function bah(){
-    window.location="bah.html"
+    window.location="bah.html";
 }
 function shi(){
-    window.location="shi.html"
+    window.location="shi.html";
 }
 function per(){
-    window.location="per.html"
+    window.location="per.html";
 }
 function soy(){
-    window.location="soy.html"
+    window.location="soy.html";
+}
+function bel(){
+    window.location="bel.html";
 }
