@@ -1,0 +1,19 @@
+.heading{
+    width: 100%;
+    color: aqua;
+    font-size: 25px;
+    border-style:groove;
+    border-width: 20px;
+    border-color: lawngreen;
+}
+.red{
+    font-style: inherit;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background-size: cover;
+}
+.heading2{
+      font-family:cursive;
+      font-size: 20px;
+}

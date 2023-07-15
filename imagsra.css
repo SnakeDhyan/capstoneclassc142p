@@ -1,0 +1,24 @@
+.heading{
+    width: 100%;
+    color: aqua;
+    font-size: 25px;
+    border-style:groove;
+    border-width: 20px;
+    border-color: lawngreen;
+}
+#home
+{
+    height: 75px;
+    width: 75px;
+    margin-bottom: 10px;
+}
+body{
+    background-size: cover;
+}
+.red
+{
+    font-size: 80px;
+}
+#note{
+    font-size: 14px;
+}
